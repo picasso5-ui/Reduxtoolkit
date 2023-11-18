@@ -1,0 +1,22 @@
+export const UsersData = [
+    {
+        id:1,
+        name:"Joel",
+        username:"picasso",
+    },
+    {
+        id:2,
+        name:"ken",
+        username:"enzyme",
+    },
+    {
+        id:3,
+        name:"chidera",
+        username:"razy",
+    },
+    {
+        id:3,
+        name:"chidera",
+        username:"razy",
+    },
+]
